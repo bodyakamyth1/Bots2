@@ -1,6 +1,0 @@
-token=NTg3MzU1MDg3MTYxMjYyMDkx.XP1bgw.d8G6Fhtg9NLp5BkxFEp9DFdQOAs
-owner=418475862153887744 
-prefix=/
-game=Community System
-stayinchannel=true
-songinstatus=false
